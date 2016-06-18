@@ -5,6 +5,7 @@
  */
 package Boggle;
 
+// Import classes that are necessary for this file.
 import java.util.ArrayList;
 import inputOutput.*;
 import core.*;
